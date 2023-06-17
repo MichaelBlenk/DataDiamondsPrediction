@@ -1,2 +1,3 @@
-# Several Machine-Learning Projects
-Labeled and Unlabeled Data 
+# Machine-Learning Algorithms
+with Labeled and Unlabeled Data
+with Hyperparameter Tuning and the Data-Science-Process
